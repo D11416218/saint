@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\新增資料夾\saint\CH16\CH16\obj\Debug\netcoreapp3.1\CH16.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\新增資料夾\saint\CH16\CH16\obj\Debug\netcoreapp3.1\CH16.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\新增資料夾\saint\CH16\CH16\obj\Debug\netcoreapp3.1\CH16.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\新增資料夾\saint\CH16\CH16\bin\Debug\netcoreapp3.1\CH16.exe
+C:\Users\Administrator\Desktop\新增資料夾\saint\CH16\CH16\bin\Debug\netcoreapp3.1\CH16.deps.json
+C:\Users\Administrator\Desktop\新增資料夾\saint\CH16\CH16\bin\Debug\netcoreapp3.1\CH16.runtimeconfig.json
+C:\Users\Administrator\Desktop\新增資料夾\saint\CH16\CH16\bin\Debug\netcoreapp3.1\CH16.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\新增資料夾\saint\CH16\CH16\bin\Debug\netcoreapp3.1\CH16.dll
+C:\Users\Administrator\Desktop\新增資料夾\saint\CH16\CH16\bin\Debug\netcoreapp3.1\CH16.pdb
+C:\Users\Administrator\Desktop\新增資料夾\saint\CH16\CH16\obj\Debug\netcoreapp3.1\CH16.dll
+C:\Users\Administrator\Desktop\新增資料夾\saint\CH16\CH16\obj\Debug\netcoreapp3.1\CH16.pdb
